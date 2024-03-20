@@ -1,1 +1,1 @@
-## This repository was created to save college lectures. 📚👨‍💻
+## This repository was created to store college classes. 📚👨‍💻
