@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Oliveira/OneDrive/Documentos/Github/IOT",
-      "program": "c:/Users/Oliveira/OneDrive/Documentos/Github/IOT/build/Debug/outDebug",
+      "cwd": "c:/Users/Lucas/Documents/Github/Learning-IOT-1",
+      "program": "c:/Users/Lucas/Documents/Github/Learning-IOT-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
