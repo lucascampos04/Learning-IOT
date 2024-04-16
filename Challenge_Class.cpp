@@ -85,7 +85,7 @@ void soarAlarme(bool ligado)
       	return;
     }
 	
-  	int tones[] = {440, 494, 523};
+  	int tones[] = {460, 500, 600};
 	for(int i = 0; i < 3; i++)
 	{
 		float time = 100;
@@ -93,7 +93,6 @@ void soarAlarme(bool ligado)
 		Serial.println(tones[i]);
       	delay(time);
 	} 	
-  
 }
 
 void loop()
